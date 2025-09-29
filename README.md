@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Hassan Achehrri]
+<h1 align="center"> 👋 Hello! I'm Hassan Achehrri</h1>
 
 ## 🌟 About Me
 
