@@ -1,29 +1,57 @@
-<h1 align="center">Hi 👋, I'm Hassan Achehri</h1>
-<h3 align="center">I'am learning frontend web</h3>
+# 👋 Hello! I'm [Hassan Achehrri]
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassan-py-code" alt="hassan-py-code" /></a> </p>
+## 🌟 About Me
 
-- 🔭 I’m currently working on **e-commerce**
+I'm a passionate and results-driven [Front-End Developer, UX Designer ] with a focus on creating engaging and accessible digital experiences. I enjoy turning ideas into reality, from the initial concept and design to clean, functional code.
 
-- 🌱 I’m currently learning **I'am learn Js**
+I'm always eager to learn new technologies and improve my craft. This portfolio showcases some of my favorite projects. Let's build something amazing together!
 
-- 👨‍💻 All of my projects are available at [https://hassan-py-code.github.io/portfolio-h-c-js/](https://hassan-py-code.github.io/portfolio-h-c-js/)
+---
 
-- 💬 Ask me about **Html,CSS**
+## 🛠️ My Toolkit
 
-- 📫 How to reach me **havhassanb@gmail.com**
+Here are some of the technologies and tools I use:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hass" height="30" width="40" /></a>
-</p>
+### Languages & Libraries
+* **HTML5:** For structuring robust web content.
+* **CSS3:** For modern, responsive styling.
+* **JavaScript (JS):** For dynamic and interactive functionality.
+* **Tailwind CSS:** For rapidly building custom user interfaces with utility-first CSS.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+### Tools & Platforms
+* **Git:** For version control and collaborative development.
+* **GitHub:** For hosting my projects and managing my code repositories.
+* **Figma:** For UI/UX design, prototyping, and collaboration. 
+* **VS Code (Visual Studio Code):** My primary code editor.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Hassan-py-code"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hassan-py-code" /></a></p><br><br>
+### Design & Principles
+* **Responsive Design:** Building interfaces that look great on any device.
+* **User Experience (UX):** Focusing on intuitive, user-centered flows.
+* **User Interface (UI) Design:** Creating visually appealing and consistent interfaces.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan-py-code&show_icons=true&locale=en&layout=compact" alt="hassan-py-code" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan-py-code&show_icons=true&locale=en" alt="hassan-py-code" /></p>
+## 🎨 Featured Projects
+
+| Project Name | Stack Used | Live Demo | GitHub Repo |
+| :--- | :--- | :--- | :--- |
+| **[Car Rental]** | HTML, CSS, JS,  | [View Live](https://hassan-py-code.github.io/creat-Car-Rental-/) | [Code](https://github.com/Hassan-py-code/creat-Car-Rental-) |
+| **[Restaurant]** | HTML, CSS, JS,  | [View Live](https://hassan-py-code.github.io/Food-Restaurant-/) | [Code](https://github.com/Hassan-py-code/Food-Restaurant-) |
+| **[Cosmatics]** |  HTML, CSS, | [View Live](https://hassan-py-code.github.io/Cosmatics/) | [Code](https://github.com/Hassan-py-code/Cosmatics) |
+
+*(Add more rows as needed!)*
+ 
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to discussing new projects, design opportunities, or just sharing a cup of virtual coffee. Feel free to reach out!
+
+* **Email:** [Havhassanb@gmail.com]
+* **LinkedIn:** [Link to your LinkedIn Profile]
+* **Portfolio/Website:** [I creat my website now]
+* **GitHub:** **You're already here!** Feel free to follow me and check out my other repositories. 
+
+---
+
+Made with ❤️ and Markdown.
