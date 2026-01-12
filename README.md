@@ -26,7 +26,7 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="45%" valign="middle">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx2MXpsc2NtNGtleGxub3JvZ2RwZGM2d3Jma3QzcTVzMGxyMXR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAsBf3ZmV3nG/giphy.gif" width="100%" style="border-radius: 10px;">
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWViNWRjZHJyMjlrNWR6YzU5Nzg2azcxemptaDE4eDFkN3RxdzluNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/XYXgAQSbmm3ARmQqcq/giphy.gif" width="100%" style="border-radius: 10px;">
     </td>
     <td width="55%" valign="top" align="center">
       <h2><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Skills Showcase</h2>
