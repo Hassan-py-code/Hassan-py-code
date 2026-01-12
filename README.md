@@ -23,22 +23,27 @@
 
 <br>
 
-<div align="center">
-  <h2><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Skills Showcase</h2>
-  <p>
-    <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  </p>
-  <h3>Frontend</h3>
-  <p>
-    <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /></a>
-    <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
-  </p>
-</div>
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="45%" valign="middle">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGx2MXpsc2NtNGtleGxub3JvZ2RwZGM2d3Jma3QzcTVzMGxyMXR0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAsBf3ZmV3nG/giphy.gif" width="100%" style="border-radius: 10px;">
+    </td>
+    <td width="55%" valign="top" align="center">
+      <h2><img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> Skills Showcase</h2>
+      <p>
+        <a href="https://www.w3.org/html/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /></a>
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+      </p>
+      <h3>Frontend</h3>
+      <p>
+        <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /></a>
+        <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmVwcW51Nm5pODlrZ3E1ZHQ2Z2NyOG1lczhpMTBwNTNwOWRmenU3aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/t7jzGb5JT0B2D7w771/giphy.gif" width="48%">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWQ4czA3aDJ2Y2ZpMXJjNGdtYzAwZGc1N3I2Nmx1MWFmbDBwdDZhZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JdyQWFOVo6s5G/giphy.gif" width="48%">
-</p>
+<br>
+
