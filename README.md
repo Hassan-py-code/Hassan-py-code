@@ -1,3 +1,6 @@
+
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGhsNGExMTNsc3R3YWM4M25sbnpybnN2d2VkOWo4bGJqazZ6N2gxaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hxCB1Qf11SrU4/giphy.gif" alt="gogo" width="90" height="90"></p>
+
 <h1 align="center">Hi, I'm Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -35,13 +38,29 @@
         <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" /></a>
       </p>
-      <h3>Frontend</h3>
+      <h2>Frontend</h2>
       <p>
         <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
         <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" /></a>
         <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" /></a>
       </p>
+         <h2>Tools</h2>
+      <p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+
+
+  
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  
+ 
+  
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
     </td>
+
+  
   </tr>
 </table>
 
