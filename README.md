@@ -2,14 +2,18 @@
 
 ---
 
-## 👋 Welcome to my GitHub Profile
+<!-- Background image -->
+![Background](https://user-images.githubusercontent.com/127.0.0.1/0207dd4b-8a60-45c0-b748-5bdf2e5dd8e6.png)
 
+---
+
+## 👋 Welcome to my GitHub Profile
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=34&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I+love+Coding+💻)
 
 ---
 
 ## About Me
-![About GIF](https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif)
+![About GIF](https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
 
 I am a front-end engineer, I love JavaScript, learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
 
