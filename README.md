@@ -7,7 +7,16 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" style="background-color: yellow; padding: 5px; border-left: 5px solid black; border-radius: 5px;"> / About Me /</h1>
+      <table>
+        <tr>
+          <td bgcolor="#ffff00" style="padding: 5px; border-radius: 5px;">
+            <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
+          </td>
+          <td style="padding-left: 10px;">
+            <h2 style="margin: 0;"> / About Me /</h2>
+          </td>
+        </tr>
+      </table>
       <p>I am a front-end engineer, I love JavaScript, I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Country-Morocco-red?style=for-the-badge&logo=morocco&logoColor=white" />
@@ -47,3 +56,7 @@
 
 <br>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MmVwcW51Nm5pODlrZ3E1ZHQ2Z2NyOG1lczhpMTBwNTNwOWRmenU3aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/t7jzGb5JT0B2D7w771/giphy.gif" width="48%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWQ4czA3aDJ2Y2ZpMXJjNGdtYzAwZGc1N3I2Nmx1MWFmbDBwdDZhZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JdyQWFOVo6s5G/giphy.gif" width="48%">
+</p>
