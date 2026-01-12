@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center" style="background-color: black; padding: 10px;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=34&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I+love+Coding+💻" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=34&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I+love+Coding+💻&background=000000" />
 </p>
 
-<table align="center" border="0">
+<table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" style="background-color: yellow; padding: 5px; border-left: 5px solid black;"> / About Me /</h1>
+      <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" style="background-color: yellow; padding: 5px; border-left: 5px solid black; border-radius: 5px;"> / About Me /</h1>
       <p>I am a front-end engineer, I love JavaScript, I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/Country-Morocco-red?style=for-the-badge&logo=morocco&logoColor=white" />
