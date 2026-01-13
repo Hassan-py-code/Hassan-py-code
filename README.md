@@ -1,8 +1,7 @@
-
-
 <p>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fhassan-achehrri&label=PROFILE%20VIEWS&countColor=%23ffff00" width="200" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHassan-py-code&label=PROFILE%20VIEWS&countColor=%23ffff00"  width="200"/>
 </p>
+
 
 <p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGhsNGExMTNsc3R3YWM4M25sbnpybnN2d2VkOWo4bGJqazZ6N2gxaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/hxCB1Qf11SrU4/giphy.gif" alt="gogo" width="90" height="90"></p>
 
@@ -11,7 +10,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=34&duration=3000&pause=1000&color=ffff00&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Web+Developer;I+love+Coding+💻&background=000000" />
 </p>
-
 
 
 <table align="center" border="0" width="100%">
@@ -62,11 +60,11 @@
 <div align="center">
   <h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzhicW9ueXJ6M3B3eXJ6M3B3eXJ6M3B3eXJ6M3B3eXJ6M3B3eXJ6M3B3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpLd2NGvpaiD7Lp0Y6/giphy.gif" width="30"> Professional Certification</h2>
   <a href="https://coursera.org/verify/RDQG1L1VQVSM" target="_blank">
-    <img src="./meta.png" alt="Meta Certificate" width="85%" style="border-radius: 10px; border: 1px solid #ddd;">
+    <img src="meta.png" alt="Meta Certificate" width="85%" style="border-radius: 10px; border: 1px solid #ddd;">
   </a>
   <p>
     <strong>Meta Front-End Development Professional Certificate</strong><br>
-    Validated skills in <b>React, JavaScript, and Responsive Design</b>. 
+    Validated expertise in <b>React, Advanced JavaScript, HTML5, CSS3</b>, and the fundamentals of <b>UX/UI design</b>.
   </p>
 </div>
 
@@ -74,10 +72,15 @@
 
 
 
-<h1 align="center">📬 Contact Me</h1>
+
+<h2 align="center">📬 Contact Me</h2>
 <p align="center">
   <a href="mailto:hassan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hassan-achehrri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hassan-achehrri" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://wa.me/212600000000" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=ffff00&authorColor=ffff00&backgroundColor=000000&quotesColor=ffffff&customAuthor=Gogo" alt="Gogo Quote" />
+</p>
