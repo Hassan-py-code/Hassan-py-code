@@ -15,7 +15,7 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <h1>/ About Me /</h1>
+     <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" style="background-color: yellow; padding: 5px; border-left: 5px solid black; border-radius: 5px;"> / About Me /</h1>
       <p>I am a front-end engineer, I love JavaScript, and I am committed to developing websites with beautiful interfaces and a good user experience.</p>
       <p>
         🔭 Currently learning web architecture at <b>Solicode</b>.<br>
