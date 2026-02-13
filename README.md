@@ -2,12 +2,6 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHassan-py-code&label=PROFILE%20VIEWS&countColor=%23ffff00" width="200"/>
 </p>
 
-
-<p align="left">
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/PIjlwugCy49HhyE8O2/giphy.gif" alt="#" width="150">
-</p>
-            
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VmYjQ4Zm1lY2VnY2MxZWd1OWhjdW9rcndlOThtYXh4eTk2dmNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nxy15cTeOPqIY6eEAQ/giphy.gif" alt="hakimi" width="100">
 </p>
@@ -44,12 +38,33 @@
 
 <h2 align="center">🚀 Skills Showcase</h2>
 <p align="center">
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=E34F26&radius=20" height="50" width="120" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=1572B6&radius=20" height="50" width="120" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=F7DF1E&radius=20" height="50" width="120" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=61DAFB&radius=20" height="50" width="120" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=php&svgfill=777BB4&radius=20" height="50" width="120" />
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/98kcZtideBuSDrzDcR/giphy.gif" alt="HTML" width="150">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/GyHvYnLiEHLjh6Chpw/giphy.gif" alt="CSS" width="150">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/PIjlwugCy49HhyE8O2/giphy.gif" alt="JS" width="150">
+  </a>
+
 </p>
+
+<div align="center">
+       <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" width="100"/>
+     </a>
+</div>
+
+<div align="center">
+  <h2>🛠️ Frontend & Tools</h2>
+  <p>
+    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    
+  </p>
+</div>
 
 <br>
 
