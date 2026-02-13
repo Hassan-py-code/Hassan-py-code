@@ -2,6 +2,12 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHassan-py-code&label=PROFILE%20VIEWS&countColor=%23ffff00" width="200"/>
 </p>
 
+
+<p align="left">
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTk3bHVtbHI2djRzcjE1ZDBmZDZ4cTRsbWtpYmVhbmh4aTQ5eG5zaSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/PIjlwugCy49HhyE8O2/giphy.gif" alt="#" width="150">
+</p>
+            
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VmYjQ4Zm1lY2VnY2MxZWd1OWhjdW9rcndlOThtYXh4eTk2dmNqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nxy15cTeOPqIY6eEAQ/giphy.gif" alt="hakimi" width="100">
 </p>
